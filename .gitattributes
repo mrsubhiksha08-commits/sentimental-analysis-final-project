@@ -1,1 +1,2 @@
 BACK[[:space:]]END/Models/bert_sentiment_model.pth filter=lfs diff=lfs merge=lfs -text
+BACK[[:space:]]END/Models/bert_sentiment_model_weights.pth filter=lfs diff=lfs merge=lfs -text
